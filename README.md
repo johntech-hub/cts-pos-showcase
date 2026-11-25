@@ -44,29 +44,29 @@ Challenges I solved:
 ## Screenshots
 
 **Selling**
-![The selling screen with a ticket, product photos and category tiles.](screenshots/01-selling-screen.png)
+![The selling screen with a ticket, product photos and category tiles.](01-selling-screen.png)
 
 **Split payment**
-![The payment window with part paid in cash and the rest by transfer.](screenshots/02-split-payment.png)
+![The payment window with part paid in cash and the rest by transfer.](02-split-payment.png)
 
 **Receipt**
-![A paid receipt coming out of an on-screen printer, with a QR code.](screenshots/03-animated-receipt.png)
+![A paid receipt coming out of an on-screen printer, with a QR code.](03-animated-receipt.png)
 
 **IMEI lookup**
-![An IMEI lookup showing a sold phone that is still under warranty.](screenshots/04-imei-warranty-lookup.png)
+![An IMEI lookup showing a sold phone that is still under warranty.](04-imei-warranty-lookup.png)
 
 **A4 invoice**
-![An A4 invoice, part paid in cash and part on credit, with an IMEI.](screenshots/05-a4-invoice.png)
+![An A4 invoice, part paid in cash and part on credit, with an IMEI.](05-a4-invoice.png)
 
 **Solar quotation**
-![A solar quotation flyer with an inverter, materials and the total.](screenshots/06-solar-quotation-flyer.png)
+![A solar quotation flyer with an inverter, materials and the total.](06-solar-quotation-flyer.png)
 
 **Dashboard**
-![The monthly dashboard with sales, profit, a daily chart and top sellers.](screenshots/07-reports-dashboard.png)
+![The monthly dashboard with sales, profit, a daily chart and top sellers.](07-reports-dashboard.png)
 
 **Head office**
-![The head office view comparing sales and stock across three branches.](screenshots/08-head-office-all-branches.png)
+![The head office view comparing sales and stock across three branches.](08-head-office-all-branches.png)
 
 **Online orders**
-![The online orders screen with three website orders and a Paystack payment.](screenshots/09-online-orders.png)
+![The online orders screen with three website orders and a Paystack payment.](09-online-orders.png)
 
